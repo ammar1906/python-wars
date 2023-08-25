@@ -12,6 +12,4 @@ def space_reverse(sentence) :
     
     return "".join(words) 
 
-
-
 print(space_reverse(sentence))
